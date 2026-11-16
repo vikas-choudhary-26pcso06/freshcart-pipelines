@@ -1,0 +1,13 @@
+# Python & Data Science
+__pycache__/
+*.py[cod]
+*$py.class
+*.pkl
+*.csv
+
+# Mage
+mage.log
+
+# Environment
+.env
+venv/
